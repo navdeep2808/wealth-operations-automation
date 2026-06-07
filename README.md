@@ -12,3 +12,8 @@ This repository is used to practice Git concepts for automation and reporting pr
 
 ## Purpose
 To track changes, document updates, and understand version control.
+
+
+## Dashboard Enhancement
+
+This branch is being used to develop new Power BI reporting features.
